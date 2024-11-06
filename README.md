@@ -12,7 +12,7 @@ Since GitHub's Jupyter Notebook viewer can sometimes struggle with rendering com
 
 ### View the Notebook You can view the notebook using nbviewer here.
 
-- https://nbviewer.org/github/Alexej9671/kaggle_loan_approval_prediction/blob/master/train_models.ipynb
+- https://nbviewer.org/github/Alexej9671/kaggle_loan_approval_prediction/blob/master/train_models.ipynb?flush_cache=true
 
 Using nbviewer ensures that all visualizations, code cells, and outputs are displayed correctly, offering a smoother viewing experience for anyone exploring the notebook online.
 
