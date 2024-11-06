@@ -64,6 +64,6 @@ The Kaggle competition determined that the model would be evaluated using Receiv
 
 ## How to Use
 
-Clone the repository: ``` git clone https://github.com/Alexej9671/kaggle_loan_approval_prediction.git ```
-Install dependencies: ``` pip install -r requirements.txt ```
-Run the notebook: Open `train_models.ipynb` in Jupyter Notebook or Jupyter Lab.
+- Clone the repository: ``` git clone https://github.com/Alexej9671/kaggle_loan_approval_prediction.git ```
+- Install dependencies: ``` pip install -r requirements.txt ```
+- Run the notebook: Open `train_models.ipynb` in Jupyter Notebook or Jupyter Lab.
